@@ -1,0 +1,40 @@
+@keyframes transitionBackground {
+    0% {
+        filter: opacity(0);
+    }
+
+    100% {
+        filter: opacity(1);
+    }
+}
+
+
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    gap: 4rem;
+    background: radial-gradient(circle, rgba(2, 0, 36, 1) 0%, rgba(6, 177, 14, 1) 5%, rgba(6, 155, 17, 1) 5%, rgba(0, 122, 45, 1) 12%, rgba(5, 126, 20, 1) 13%, rgba(0, 212, 255, 1) 100%);
+}
+
+.background2 {
+    background-color: rgb(2, 0, 36);
+    background: radial-gradient(circle, rgba(2, 0, 36, 1) 0%, rgba(6, 177, 14, 1) 11%, rgba(5, 126, 20, 1) 19%, rgba(0, 122, 45, 1) 20%, rgba(6, 155, 17, 1) 23%, rgba(0, 212, 255, 1) 100%);
+}
+
+.background3 {
+    background: rgb(2, 0, 36);
+    background: radial-gradient(circle, rgba(2, 0, 36, 1) 0%, rgba(6, 177, 14, 1) 24%, rgba(5, 126, 20, 1) 30%, rgba(0, 122, 45, 1) 32%, rgba(6, 155, 17, 1) 32%, rgba(6, 155, 17, 1) 33%, rgba(0, 212, 255, 1) 100%);
+}
+
+.background4 {
+    background: rgb(2, 0, 36);
+    background: radial-gradient(circle, rgba(2, 0, 36, 1) 5%, rgba(6, 177, 14, 1) 27%, rgba(5, 126, 20, 1) 37%, rgba(6, 155, 17, 1) 40%, rgba(0, 122, 45, 1) 44%, rgba(6, 155, 17, 1) 51%, rgba(0, 212, 255, 1) 100%);
+}
+
+.background5 {
+    background: rgb(2, 0, 36);
+    background: radial-gradient(circle, rgba(2, 0, 36, 1) 0%, rgba(6, 155, 17, 1) 55%, rgba(5, 126, 20, 1) 70%, rgba(0, 122, 45, 1) 82%, rgba(6, 155, 17, 1) 95%, rgba(6, 177, 14, 1) 99%, rgba(0, 212, 255, 1) 100%);
+}
