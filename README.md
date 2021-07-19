@@ -13,6 +13,11 @@ Começe fazendo fazendo o clone do repositório com git clone ou baixando o arqu
 
 A aplicação busca fazer consultas de converção de moedas de todas (ou quase todas a nações), utilizando a api [currencyconverterapi](https://www.currencyconverterapi.com/) para fazer requisições e imprimir o resultado desejado!
 
-### Tecnologias utilizadas
+### `Tecnologias utilizadas`
 
 **React Scss Axios**
+
+### `Contato`
+
+[Linkedin](https://www.linkedin.com/in/ramon-silva-65bb78188/)
+[Gmail](ramonsilva.silva.rsrs@gmail.com)
