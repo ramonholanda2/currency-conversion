@@ -20,4 +20,3 @@ A aplicação busca fazer consultas de converção de moedas de todas (ou quase 
 ### `Contato`
 
 [Linkedin](https://www.linkedin.com/in/ramon-silva-65bb78188/)
-[Gmail](ramonsilva.silva.rsrs@gmail.com)
